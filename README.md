@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Saikiran007123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Saikiran Nagarjuna
+- 👀 I’m interested in DSA/DEV/DATA
+- 🌱 I’m currently learning DSA and DEV
+- 💞️ I’m looking to collaborate on Web Development Projects and Data Engineering Projects
+- 📫 How to reach me 
 
 <!---
 Saikiran007123/Saikiran007123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
